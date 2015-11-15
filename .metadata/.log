@@ -1,0 +1,1227 @@
+!SESSION 2015-11-15 13:10:21.679 -----------------------------------------------
+eclipse.buildId=M20130204-1200
+java.version=1.8.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:22.883
+!MESSAGE Could not bind a reference of component com.sap.it.cmd.handler. The reference is: Reference[name = ICMDContributor, interface = com.sap.it.cmd.provider.ICMDContributor, policy = dynamic, cardinality = 0..n, target = null, bind = bindCMDFeature, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:22.883
+!MESSAGE Could not bind a reference of component com.sap.it.cmd.handler. The reference is: Reference[name = ICMDContributor, interface = com.sap.it.cmd.provider.ICMDContributor, policy = dynamic, cardinality = 0..n, target = null, bind = bindCMDFeature, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:22.923
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IConnectionProperties, interface = com.sap.it.ds.intrsp.md.api.IConnectionProperties, policy = dynamic, cardinality = 0..n, target = null, bind = bindConnectionProperties, unbind = unbindConnectionProperties]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:22.923
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IConnectionProperties, interface = com.sap.it.ds.intrsp.md.api.IConnectionProperties, policy = dynamic, cardinality = 0..n, target = null, bind = bindConnectionProperties, unbind = unbindConnectionProperties]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:22.923
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IDataSource, interface = com.sap.it.ds.intrsp.md.api.IDataSource, policy = dynamic, cardinality = 0..n, target = null, bind = bindDataSource, unbind = unbindDataSource]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:22.923
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IDataSource, interface = com.sap.it.ds.intrsp.md.api.IDataSource, policy = dynamic, cardinality = 0..n, target = null, bind = bindDataSource, unbind = unbindDataSource]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:22.923
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IQueryBuilder, interface = com.sap.it.ds.intrsp.md.api.service.IQueryBuilderService, policy = dynamic, cardinality = 0..n, target = null, bind = bindQueryBuilder, unbind = unbindQueryBuilder]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:22.923
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IQueryBuilder, interface = com.sap.it.ds.intrsp.md.api.service.IQueryBuilderService, policy = dynamic, cardinality = 0..n, target = null, bind = bindQueryBuilder, unbind = unbindQueryBuilder]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:22.923
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IMetadataService, interface = com.sap.it.ds.intrsp.md.api.service.IMetadataService, policy = dynamic, cardinality = 0..n, target = null, bind = bindMetadataService, unbind = unbindMetadataService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:22.923
+!MESSAGE Could not bind a reference of component com.sap.it.ds.intrsp.md.api. The reference is: Reference[name = IMetadataService, interface = com.sap.it.ds.intrsp.md.api.service.IMetadataService, policy = dynamic, cardinality = 0..n, target = null, bind = bindMetadataService, unbind = unbindMetadataService]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:23.013
+!MESSAGE Could not bind a reference of component com.sap.it.ifl.common.core.generation.manager. The reference is: Reference[name = IGenerationContributor, interface = com.sap.it.gnb.ifl.common.gen.pluggability.api.IGenerationContributor, policy = dynamic, cardinality = 0..n, target = null, bind = bindContributors, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:23.013
+!MESSAGE Could not bind a reference of component com.sap.it.ifl.common.core.generation.manager. The reference is: Reference[name = IGenerationContributor, interface = com.sap.it.gnb.ifl.common.gen.pluggability.api.IGenerationContributor, policy = dynamic, cardinality = 0..n, target = null, bind = bindContributors, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:23.013
+!MESSAGE Could not bind a reference of component com.sap.it.ifl.common.core.generation.manager. The reference is: Reference[name = IPostGeneratorHandler, interface = com.sap.it.gnb.ifl.common.gen.pluggability.api.IPostGeneratorHandler, policy = dynamic, cardinality = 0..n, target = null, bind = bindPostGenerationHandler, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:23.013
+!MESSAGE Could not bind a reference of component com.sap.it.ifl.common.core.generation.manager. The reference is: Reference[name = IPostGeneratorHandler, interface = com.sap.it.gnb.ifl.common.gen.pluggability.api.IPostGeneratorHandler, policy = dynamic, cardinality = 0..n, target = null, bind = bindPostGenerationHandler, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:23.013
+!MESSAGE Could not bind a reference of component com.sap.it.ifl.common.core.generation.manager. The reference is: Reference[name = IFlowReferenceResolverImpl, interface = com.sap.it.gnb.ifl.common.gen.pluggability.api.IResourceProvider, policy = dynamic, cardinality = 0..1, target = null, bind = bindIFlowReferenceResolver, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:23.013
+!MESSAGE Could not bind a reference of component com.sap.it.ifl.common.core.generation.manager. The reference is: Reference[name = IFlowReferenceResolverImpl, interface = com.sap.it.gnb.ifl.common.gen.pluggability.api.IResourceProvider, policy = dynamic, cardinality = 0..1, target = null, bind = bindIFlowReferenceResolver, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:23.043
+!MESSAGE Could not bind a reference of component com.sap.it.gnb.ifl.common.checks. The reference is: Reference[name = IComponentCheck, interface = com.sap.it.gnb.ifl.common.validation.api.IComponentCheck, policy = dynamic, cardinality = 0..n, target = null, bind = bindComponentCheck, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:23.043
+!MESSAGE Could not bind a reference of component com.sap.it.gnb.ifl.common.checks. The reference is: Reference[name = IComponentCheck, interface = com.sap.it.gnb.ifl.common.validation.api.IComponentCheck, policy = dynamic, cardinality = 0..n, target = null, bind = bindComponentCheck, unbind = null]
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-15 13:10:23.103
+!MESSAGE NLS missing message: CollaborationExtensionCheck_101 in: com.sap.it.ifl.core.checks.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-15 13:10:23.103
+!MESSAGE NLS missing message: CollaborationExtensionCheck_106 in: com.sap.it.ifl.core.checks.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-15 13:10:23.103
+!MESSAGE NLS missing message: CollaborationExtensionCheck_74 in: com.sap.it.ifl.core.checks.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-15 13:10:23.103
+!MESSAGE NLS missing message: CollaborationExtensionCheck_86 in: com.sap.it.ifl.core.checks.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-15 13:10:23.103
+!MESSAGE NLS missing message: CollaborationExtensionCheck_91 in: com.sap.it.ifl.core.checks.messages
+
+!ENTRY org.eclipse.osgi 2 1 2015-11-15 13:10:23.103
+!MESSAGE NLS missing message: CollaborationExtensionCheck_96 in: com.sap.it.ifl.core.checks.messages
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:23.103
+!MESSAGE Could not bind a reference of component com.sap.it.gnb.ifl.common.manifest.manager. The reference is: Reference[name = IManifestHandler, interface = com.sap.it.gnb.ifl.common.manifest.IManifestHandler, policy = dynamic, cardinality = 0..1, target = null, bind = bindContributors, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:23.113
+!MESSAGE Could not bind a reference of component com.sap.it.gnb.ifl.common.manifest.manager. The reference is: Reference[name = IManifestHandler, interface = com.sap.it.gnb.ifl.common.manifest.IManifestHandler, policy = dynamic, cardinality = 0..1, target = null, bind = bindContributors, unbind = null]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:23.912
+!MESSAGE Could not bind a reference of component com.sap.it.mapping.mm.serializer.factory. The reference is: Reference[name = Serializer, interface = com.sap.it.mapping.mm.serializer.Serializer, policy = dynamic, cardinality = 0..n, target = null, bind = addSerializer, unbind = removeSerializer]
+
+!ENTRY org.eclipse.equinox.ds 4 0 2015-11-15 13:10:23.912
+!MESSAGE Could not bind a reference of component com.sap.it.mapping.mm.serializer.factory. The reference is: Reference[name = Serializer, interface = com.sap.it.mapping.mm.serializer.Serializer, policy = dynamic, cardinality = 0..n, target = null, bind = addSerializer, unbind = removeSerializer]
+
+!ENTRY org.eclipse.jface 2 0 2015-11-15 13:10:42.528
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:10:42.528
+!MESSAGE A conflict occurred for SHIFT+DEL:
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.datatools.sqltools.result.removeAllInstances,Remove All Visible Results,
+		,
+		Category(org.eclipse.datatools.sqltools.result.category,SQL Results View,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@dd71b20,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.cut,Cut,
+		Cut the selection to the clipboard,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@767f6ee7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(SHIFT+DEL,
+	ParameterizedCommand(Command(org.eclipse.graphiti.ui.internal.action.RemoveAction,Remove,
+		Remove selected Pictogram Elements,
+		Category(org.eclipse.graphiti.ui.Graphiti_Category,Edit,Graphiti Diagram Editor,true),
+		org.eclipse.ui.internal.MakeHandlersGo@7b6c6e70,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2015-11-15 13:10:50.172
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\User'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:54.966
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.preferences.UI5LibrariesRegistry
+   Method     : getBundleNamesUI5CoreLibs
+   Message    : found UI libraries null
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.226
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.226
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.286
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.286
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.366
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.366
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.406
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.406
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.426
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.426
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.436
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.436
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.496
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.496
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.526
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.526
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.606
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.606
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.626
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.626
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.646
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.646
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.656
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.656
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.656
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : Missing Templates in: com.sap.ushell.ushell-lib-testresources
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.676
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.676
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.686
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.686
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.716
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.726
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.736
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.736
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.776
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.776
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.786
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.796
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.866
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.866
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.886
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.886
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.936
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.936
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.951
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.951
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.974
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.974
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.983
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:55.983
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.037
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.038
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.044
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.045
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.047
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : Missing Templates in: com.sap.ui5.themelib_sap_goldreflection
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.058
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.058
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.065
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.065
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.188
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.188
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.238
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.238
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.298
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.298
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.318
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.328
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.328
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : Missing Templates in: com.sap.ui5.themelib_sap_bluecrystal
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.338
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.338
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.348
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.358
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.368
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY com.sap.ide.ui5.services 1 1 2015-11-15 13:10:56.368
+!MESSAGE Internal Info
+   Plugin Name: SAPUI5 Services
+   Plugin ID  : com.sap.ide.ui5.services
+   Class      : com.sap.ide.ui5.services.templates.UI5PrepareControlTemplates
+   Method     : earlyStartup
+   Message    : cvc-elt.1: Cannot find the declaration of element 'Library'.
+   Exception  : 
+
+
+!ENTRY org.eclipse.jface 2 0 2015-11-15 13:11:02.311
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:11:02.311
+!MESSAGE A conflict occurred for CTRL+,:
+Binding(CTRL+,,
+	ParameterizedCommand(Command(org.eclipse.ui.navigate.previous,Previous,
+		Navigate to the previous item,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@2ff62720,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+,,
+	ParameterizedCommand(Command(com.sap.jvm.profiling.ui.workbench.navigate.previous,Navigate to the previous item,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.MakeHandlersGo@45295cfd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialog,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:11:02.311
+!MESSAGE A conflict occurred for DEL:
+Binding(DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.delete,Delete,
+		Delete the selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@472d0f4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(DEL,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.delete,Delete,
+		Delete the selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@472d0f4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialog,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:11:02.311
+!MESSAGE A conflict occurred for CTRL+.:
+Binding(CTRL+.,
+	ParameterizedCommand(Command(org.eclipse.ui.navigate.next,Next,
+		Navigate to the next item,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@42c9b1ee,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+.,
+	ParameterizedCommand(Command(com.sap.jvm.profiling.ui.workbench.navigate.next,Navigate to the next item,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.MakeHandlersGo@217c6a1e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialog,,,system)
+
+!ENTRY org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_RIGHT:
+Binding(ALT+SHIFT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.select.next,Select Next Element,
+		Expand selection to include next sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@30623109,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_RIGHT,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.next,Select Next Element,
+		Expand selection to include next sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@54489296,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE A conflict occurred for CTRL+SHIFT+C:
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.toggle.comment,Toggle Comment,
+		Toggle comment the selected lines,
+		Category(org.eclipse.wst.jsdt.ui.category.source,Source,JavaScript Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@138110f8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.toggle.comment,Toggle Comment,
+		Toggle Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@16d41725,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+Binding(CTRL+SHIFT+C,
+	ParameterizedCommand(Command(com.sap.adt.wda.view.ui.internal.command.createContextMenu,Insertar menú contextual,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.MakeHandlersGo@4fe8ac61,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_DOWN:
+Binding(ALT+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.select.last,Restore Last Selection,
+		Restore last selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@665e18d5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.last,Restore Last Selection,
+		Restore last selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@28989415,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE A conflict occurred for CTRL+SHIFT+ARROW_UP:
+Binding(CTRL+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.goto.previous.member,Go to Previous Member,
+		Move the caret to the previous member of the JavaScript file,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@4795876e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.wst.xml.ui.previousSibling,Previous Sibling,
+		Go to Previous Sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@8b41ad,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+Binding(CTRL+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(com.sap.adt.wda.view.ui.internal.command.moveup,Subir elemento IU,
+		Opción de menú Desplazar hacia arriba para proporcionar estándares de productos de accesibilidad para la funcionalidad de arrastrar y soltar en la página de resumen de vista WDA.,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.MakeHandlersGo@5c8859b4,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_UP:
+Binding(ALT+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing,Select Enclosing Element,
+		Expand selection to include enclosing element,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@56897de0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_UP,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.enclosing,Select Enclosing Element,
+		Expand selection to include enclosing element,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@37d699a1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE A conflict occurred for CTRL+O:
+Binding(CTRL+O,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.show.outline,Quick Outline,
+		Show the quick outline for the editor input,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@40874f54,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javaEditorScope,,,system)
+Binding(CTRL+O,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.quick_outline,Quick Outline,
+		Show the quick outline for the editor input,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@2bc21edd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+Binding(CTRL+O,
+	ParameterizedCommand(Command(org.eclipse.graphiti.ui.internal.action.SaveImageAction,Export Diagram,
+		Export Diagram,
+		Category(org.eclipse.graphiti.ui.Graphiti_Category,Edit,Graphiti Diagram Editor,true),
+		org.eclipse.ui.internal.MakeHandlersGo@3599b7e8,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE A conflict occurred for F3:
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.open.editor,Open Declaration,
+		Open an editor on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@2862bac6,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.open.editor,Open Declaration,
+		Open an editor on the selected element,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@52e5ad71,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javascriptViewScope,,,system)
+Binding(F3,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.open.file.from.source,Open Selection,
+		Open an editor on the selected link,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@696a6506,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE A conflict occurred for CTRL+I:
+Binding(CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.indent,Indent Line,
+		Indents the current line,
+		Category(org.eclipse.wst.jsdt.ui.category.source,Source,JavaScript Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1134a934,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javaEditorScope,,,system)
+Binding(CTRL+I,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.format.active.elements,Format Active Elements,
+		Format active elements,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@5f56424d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE A conflict occurred for CTRL+SHIFT+P:
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.goto.matching.bracket,Go to Matching Bracket,
+		Moves the cursor to the matching bracket,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@2cbd855e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.goto.matching.bracket,Matching Character,
+		Go to Matching Character,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@372954e1,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+Binding(CTRL+SHIFT+P,
+	ParameterizedCommand(Command(com.sap.adt.wda.view.ui.internal.command.contextbind,Vincular a contexto,
+		,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.MakeHandlersGo@534c3b9d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE A conflict occurred for CTRL+SHIFT+/:
+Binding(CTRL+SHIFT+/,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.add.block.comment,Add Block Comment,
+		Enclose the selection with a block comment,
+		Category(org.eclipse.wst.jsdt.ui.category.source,Source,JavaScript Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@69b436a7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+/,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.add.block.comment,Add Block Comment,
+		Add Block Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1ad1c363,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE A conflict occurred for CTRL+SHIFT+F:
+Binding(CTRL+SHIFT+F,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.format,Format,
+		Format the selected text,
+		Category(org.eclipse.wst.jsdt.ui.category.source,Source,JavaScript Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@5dfd4fac,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+F,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.format.document,Format,
+		Format selection,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@119d4443,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE A conflict occurred for CTRL+SHIFT+\:
+Binding(CTRL+SHIFT+\,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.remove.block.comment,Remove Block Comment,
+		Remove the block comment enclosing the selection,
+		Category(org.eclipse.wst.jsdt.ui.category.source,Source,JavaScript Source Actions,true),
+		org.eclipse.ui.internal.MakeHandlersGo@1d2aa638,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+\,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.remove.block.comment,Remove Block Comment,
+		Remove Block Comment,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@6826b70f,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE A conflict occurred for ALT+SHIFT+ARROW_LEFT:
+Binding(ALT+SHIFT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.select.previous,Select Previous Element,
+		Expand selection to include previous sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@2f08e6d3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javaEditorScope,,,system)
+Binding(ALT+SHIFT+ARROW_LEFT,
+	ParameterizedCommand(Command(org.eclipse.wst.sse.ui.structure.select.previous,Select Previous Element,
+		Expand selection to include previous sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@2094bf3d,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2015-11-15 13:12:19.021
+!MESSAGE A conflict occurred for CTRL+SHIFT+ARROW_DOWN:
+Binding(CTRL+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.wst.jsdt.ui.edit.text.java.goto.next.member,Go to Next Member,
+		Move the caret to the next member of the JavaScript file,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@67c1fc9b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.jsdt.ui.javaEditorScope,,,system)
+Binding(CTRL+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(org.eclipse.wst.xml.ui.nextSibling,Next Sibling,
+		Go to Next Sibling,
+		Category(org.eclipse.ui.category.edit,Edit,null,true),
+		org.eclipse.ui.internal.MakeHandlersGo@4044589a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.wst.sse.ui.structuredTextEditorScope,,,system)
+Binding(CTRL+SHIFT+ARROW_DOWN,
+	ParameterizedCommand(Command(com.sap.adt.wda.view.ui.internal.command.movedown,Bajar,
+		Opción de menú Desplazar hacia abajo para proporcionar estándares de productos de accesibilidad para la funcionalidad de arrastrar y soltar en la página de resumen de vista WDA.,
+		Category(org.eclipse.core.commands.categories.autogenerated,Uncategorized,Commands that were either auto-generated or have no category,true),
+		org.eclipse.ui.internal.MakeHandlersGo@50f65fe0,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
